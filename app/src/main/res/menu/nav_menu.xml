@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/nav_home"
+            android:title="首页" />
+        <item
+            android:id="@+id/nav_bluetooth"
+            android:icon="@drawable/nav_bluetooth"
+            android:title="蓝牙连接" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/nav_history"
+            android:title="历史数据" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/nav_about"
+            android:title="关于" />
+    </group>
+</menu>

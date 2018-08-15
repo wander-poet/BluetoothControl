@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="divider">#E6E6E6</color>
+    <color name="divider1">#AAAAAA</color>
+    <color name="popupwindow_background">#E0F0F0F0</color>
+    <color name="numberpicker_line">#F08200</color>
+    <color name="numberpicker_text">#F08200</color>
+    <color name="textcolor">#222222</color>
+    <color name="numberpicker_line2">#555666</color>
+    <color name="year">#00A0E9</color>
+    <color name="button_background">#00A0E9</color>
+    <color name="button_text">#FFFFFF</color>
+    <color name="Red">#F44336</color>
+    <color name="Blue">#2196F3</color>
+</resources>

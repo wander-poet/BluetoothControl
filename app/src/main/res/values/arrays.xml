@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spindle">
+        <item> 0 号</item>
+        <item> 1 号 </item>
+        <item> 2 号</item>
+        <item> 3 号</item>
+        <item> 4 号</item>
+    </string-array>
+    <string-array name="PT">
+        <item> 打 印 </item>
+        <item> 定 时 </item>
+    </string-array>
+    <string-array name="SW">
+        <item> 扭 矩 %</item>
+        <item> 温 度 ℃</item>
+        <item> 粘 度 mPa·s</item>
+    </string-array>
+    <declare-styleable name="AmountView">
+        <!-- 左右2边+-按钮的宽度 -->
+        <attr name="btnWidth" format="dimension" />
+        <!-- 中间TextView的宽度 -->
+        <attr name="tvWidth" format="dimension" />
+        <!--<attr name="tvColor" format="color"/>-->
+        <attr name="tvTextSize" format="dimension"/>
+        <attr name="btnTextSize" format="dimension"/>
+    </declare-styleable>
+</resources>
